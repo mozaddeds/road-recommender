@@ -1,0 +1,12 @@
+.vehicleBox {
+    border: 2px solid white;
+    padding: 20px 30px;
+    margin: 30px;
+    box-shadow: 5px 5px 30px #a7bfd1;
+}
+
+.vehicleBox img {
+    width: 180px;
+    height: 120px;
+}
+

@@ -1,0 +1,34 @@
+.showComponent {
+    
+    padding: 20px;
+    margin: 30px;
+}
+
+.placeAndPrice {
+    
+    padding: 2px;
+    margin: 10px;
+    width: 400px;
+}
+
+.pricePart {
+    padding: 10px;
+    margin: 30px 10px 10px 10px;
+    box-shadow: 5px 10px 25px rgba(235, 232, 232, 0.795);
+}
+
+.pricePart img{
+    width: 200px;
+    height: 150px;
+    padding: 0px 15px 10px 5px;
+}
+
+.priceBox {
+    padding: 10px;
+}
+
+.mapBox iframe{
+    width: 700px;
+    height: 500px;
+    margin-right: 200px;
+}

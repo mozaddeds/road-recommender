@@ -1,0 +1,17 @@
+.navItems h4{
+    padding: 5px 30px;
+}
+
+.navItems {
+    padding-right: 50px;
+}
+
+.navLogo {
+    padding: 10px 50px;
+    border: 0.1px inset white;
+    box-shadow: 2px 2px 5px white;
+}
+
+.loginBtn {
+    margin: 10px;
+}

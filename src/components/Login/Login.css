@@ -1,0 +1,34 @@
+.loginForm {
+    /* border: 3px solid black; */
+    padding: 30px;
+    margin: 50px;
+    align-items: center;
+}
+
+#nameField, #emailField, #passwordField {
+    height: 40px;
+    width: 500px;
+    align-items: center;
+    text-align: center;
+    display: block;
+    margin: 10px 0px 0px 5px;
+}
+
+.signInOptions {
+    border: 1px solid red;
+    margin: 10px 0px;
+    padding: 10px;
+    background-color: orangered;
+    color: white;
+}
+
+#newUserCheck {
+    text-align: center;
+    align-items: center;
+    margin: 30px 5px 0px 200px;
+    font-size: 100px;
+}
+
+#newUserLabel {
+    font-size: 20px;
+}
